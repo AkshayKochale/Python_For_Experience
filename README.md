@@ -54,13 +54,3 @@ Feel free to open an issue or drop a comment!
 
 ---
 
-## 📬 Connect with Me
-
-If you’d like to collaborate, discuss Python, or just say hi:
-
-- 📧 [Your Email]
-- 💼 [LinkedIn/GitHub Profile]
-
----
-
-## 📁 Suggested Folder Structure
