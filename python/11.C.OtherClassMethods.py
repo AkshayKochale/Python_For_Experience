@@ -15,13 +15,7 @@ class Test:
     def __str__(self):    # similar to tostring - what data to print when actual object is printed
         return "this act as toString method"
 
-    @property         # getter for variable (Abstraction)
-    def getA(self):
-        return "value of a "+self.a;  
-
-    @a.setter        # setter for variable 
-    def setA(self,val):
-        self.a=val
+    
 
 
 testObj=Test();          # new Object is created
