@@ -26,3 +26,15 @@ idx=0
 while(idx<len):
         print(list[idx])
         idx+=1
+
+
+""" Iterator """
+
+it =iter(list)
+
+try:
+    while True:
+        print(it.__next__())     # Has next is not there is python so this is the way
+except StopIteration:
+        print("end")
+  
